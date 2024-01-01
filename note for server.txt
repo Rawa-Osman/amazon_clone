@@ -1,0 +1,19 @@
+nmp init
+
+package.json // is like pub.yaml
+
+express 
+http
+nodemon
+
+npm i mongoose
+npm i mongoose@1.2.2
+npm i nodemon --save-dev // dave in dev 
+
+dev in script mean == npm run dev
+
+rs for restart
+
+
+token jwt  // js web token
+    
